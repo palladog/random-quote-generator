@@ -1,6 +1,8 @@
 # Random Trump Quote Generator
 The _Random Trump Quote Generator_ is a web app that fetches a random quote by Donald Trump from the [What Does Trump Think](https://whatdoestrumpthink.com/) API, displays it to the user (either upon page load or on button click), and offers the option to tweet the quote.
 
+![Screenshot of the web app](https://github.com/palladog/random-quote-generator/blob/master/webapp-screenshot.png)
+
 ## Usage
 Open `index.html` in your browser.
 
